@@ -96,7 +96,7 @@ Our Bedwars mode is fully optimized for tactical competitive play, offering a re
 *   **Matchmaking**: Built-in competitive matchmaking queues using a custom Elo ranking algorithm and predictive logic.
 *   **AI Battle Bots**: Highly advanced combat training bots simulating human player movements, strafing, and combo techniques.
 
-### 🎯 StarValorant (Tactical Shooter Engine)
+### 🎯 StarTDM (Tactical Shooter Engine)
 *   **Custom HUD Binding**: High-fidelity client-side HUD JSON bindings to display round times, shield status, and kill reports.
 *   **Agent Abilities & Spike Engine**: Complete custom game loop representing spike planting/defusing, dynamic character barriers, and real-time Unicode bossbars.
 *   **Tab Grid Statistics**: Dynamic scoreboard grid capturing player combat scores, KDA ratios, and economy stats.
