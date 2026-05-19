@@ -151,11 +151,11 @@ The duo behind the vision, design, and execution of StarLight Network:
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Kwacyy">
-        <img src="https://github.com/Kwacyy.png" width="120px;" alt="Kwacyy" style="border-radius: 50%;"/><br />
-        <sub><b>Kwacyy</b></sub>
+        <img src="https://github.com/Kwacyy.png" width="120px;" alt="Yunna" style="border-radius: 50%;"/><br />
+        <sub><b>Yunna</b></sub>
       </a><br />
       🌸 <b>Co-Developer & Interface Designer</b><br />
-      <i>Creative designer managing custom asset styling, fluid in-game UI menus, and elegant web interfaces.</i>
+      <i>Creative designer managing custom asset styling, fluid in-game UI menus, elegant web interfaces, refined UI/UX flows, and stylish visual identities across digital platforms.</i>
     </td>
   </tr>
 </table>
