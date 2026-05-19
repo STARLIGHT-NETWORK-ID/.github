@@ -164,7 +164,7 @@ The duo behind the vision, design, and execution of StarLight Network:
 
 ## 📬 Connect With Us
 *   **Website**: *Coming Soon*
-*   **Discord Server**: *Coming Soon*
+*   **Discord Server**: *https://discord.gg/AHsQqxggFZ*
 *   **IP Address**: *Coming Soon*
 
 <div align="center">
