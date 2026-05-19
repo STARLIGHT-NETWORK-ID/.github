@@ -173,14 +173,14 @@ The dedicated team behind the StarLight Network. Our administrative and support 
       </a><br />
       👾 <b>Innovate Admin & Lead Builder</b><br />
         <i>Lead Builder in charge of core world layouts, large-scale architectural projects, immersive landscape designs, and collaborative multiplayer construction</i>
-    </td>
+      </td>
     <td align="center" width="33%">
       <a href="https://github.com/amprembonx-stack">
         <img src="https://github.com/amprembonx-stack.png" width="100px;" alt="Noel" style="border-radius: 50%;"/><br />
         <sub><b>Noel</b></sub>
       </a><br />
-      🍀 <b>Innovate Admin & Creative Desainer</b><br />
-      <i>isi di sini</i>
+      🍀 <b>Innovate Admin & Creative Designer</b><br />
+      <i>Managing making custom logos and banners. styling & rebuilding discord server and engaging with collaborative designs</i>
     </td>
   </tr>
 </table>
