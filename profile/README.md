@@ -188,9 +188,9 @@ The dedicated team behind the StarLight Network. Our administrative and support 
 ---
 
 ## 📬 Connect With Us
-*   **Website**: *Coming Soon*
-*   **Discord Server**: *https://discord.gg/AHsQqxggFZ*
-*   **IP Address**: *Coming Soon*
+*   **Website**: *https://starlightmc.net*
+*   **Discord Server**: *https://starlightmc.net/discord*
+*   **IP Address**: *starlightmc.net*
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
